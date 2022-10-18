@@ -6,9 +6,9 @@
 
 <br />
 
-- 👋 Hi, I’m Vishwas
+- 👋 Hi, I’m Naresh
 - 👀 I’m interested in Data Science, Python, Business Analytics
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science, Mlops
 - 💞️ I’m looking to collaborate on Python & Data Science Projects
 - 📫 Reach me through: nareshkoundel04@gamil.com 
 
